@@ -1,2 +1,2 @@
 # FreqResp
-Examine frequency resposne of fish tracks from echoview output
+Examine frequency resposne of fish tracks from Echoview output
