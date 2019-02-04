@@ -7,6 +7,7 @@ pth  <- "/Users/test/Desktop/FR/"
 setwd(pth)
 getwd()
 
+
  
 filez <- list.files(path=pth, pattern=".csv$", full.names=FALSE)
 
