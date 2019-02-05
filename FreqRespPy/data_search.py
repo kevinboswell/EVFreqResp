@@ -14,29 +14,31 @@ def get_target_file_list(data_directory):
 
     file_list = [file for file in file_list if file.endswith('.csv')]
     file_list = [file for file in file_list if file.startswith('FT_region')]
-    file_list = [join(data_directory, file) for file in file_list]
 
     return file_list
 
 
-def open_target_file(ft_region_file, meta_rows=6, transpose_meta=False):
-    df = pd.read_csv(ft_region_file)
-    df = df.drop(['Variable_index', 'Variable_name'], axis=1)
+def open_target_file(data_directory, ft_region_file, meta_rows=6, transpose_meta=False):
+    """
 
-    meta = df.head(meta_rows)
+    :param data_directory:
+    :param ft_region_file:
+    :param meta_rows:
+    :param transpose_meta:
+    :return:
+    """
+    # Read .csv, drop Variable columns
+    df = pd.read_csv(join(data_directory, ft_region_file))
+    df.index = df['Target_index']
+
+    df = df.drop(['Variable_index', 'Variable_name', 'Target_index'], axis=1)
+
+    # Extract first n rows as meta data.  Optionally transpose.
+    file_meta = df.head(meta_rows)
     if transpose_meta:
-        meta = meta.transpose()
+        file_meta = file_meta.transpose()
 
+    # Drop the first n rows of meta data and return df of freq resp
     df.drop(df.head(meta_rows).index, inplace=True)
 
-    return [meta, df]
-
-
-if __name__ == '__main__':
-    data_files = get_target_file_list('../data/')
-    print(data_files)
-    file = data_files[0]
-    meta, df = open_target_file(file)
-
-    print(meta)
-    print(df)
+    return [file_meta, df]

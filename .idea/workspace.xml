@@ -2,35 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3108ead5-3fed-485e-9279-ace4a34dd300" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FreqRespPy/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FreqRespPy/data_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ev10_EVD_Exp_STFR_Comp0_Time.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/Ev10_EVD_Exp_STFR_Comp0_Time.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ev10_EVD_Exp_STFR_Comp1_Time.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/Ev10_EVD_Exp_STFR_Comp1_Time.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ev10_EVD_Exp_STFR_Comp2_Time.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/Ev10_EVD_Exp_STFR_Comp2_Time.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ev10_EVD_Exp_STFR_Comp3_Time.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/Ev10_EVD_Exp_STFR_Comp3_Time.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ev10_EVD_Exp_STFR_Comp4_Time.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/Ev10_EVD_Exp_STFR_Comp4_Time.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ev10_EVD_Export_Time_Comp0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/Ev10_EVD_Export_Time_Comp0.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ev10_EVD_Export_Time_Comp1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/Ev10_EVD_Export_Time_Comp1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ev10_EVD_Export_Time_Comp2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/Ev10_EVD_Export_Time_Comp2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ev10_EVD_Export_Time_Comp3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/Ev10_EVD_Export_Time_Comp3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ev10_EVD_Export_Time_Comp4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/Ev10_EVD_Export_Time_Comp4.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ev10_Raw_Exp_STFR_Time.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/Ev10_Raw_Exp_STFR_Time.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FT_region_EV9_EVD_Comp0_Region 1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/FT_region_EV9_EVD_Comp0_Region 1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FT_region_EV9_EVD_Comp0_Region 2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/FT_region_EV9_EVD_Comp0_Region 2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FT_region_EV9_EVD_Comp0_Region 45.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/FT_region_EV9_EVD_Comp0_Region 45.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FT_region_EV9_EVD_Comp0_Region 46.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/FT_region_EV9_EVD_Comp0_Region 46.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FT_region_EV9_EVD_Comp1_Region 1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/FT_region_EV9_EVD_Comp1_Region 1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FT_region_EV9_EVD_Comp1_Region 2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/FT_region_EV9_EVD_Comp1_Region 2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FT_region_EV9_EVD_Comp1_Region 45.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/FT_region_EV9_EVD_Comp1_Region 45.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FT_region_EV9_EVD_Comp1_Region 46.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/FT_region_EV9_EVD_Comp1_Region 46.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FT_region_RAW_EV9_Region 1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/FT_region_RAW_EV9_Region 1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FT_region_RAW_EV9_Region 2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/FT_region_RAW_EV9_Region 2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FT_region_RAW_EV9_Region 45.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/FT_region_RAW_EV9_Region 45.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FT_region_RAW_EV9_Region 46.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/FT_region_RAW_EV9_Region 46.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreqRespPy/target_calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FreqRespPy/data_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/FreqRespPy/data_search.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,20 +14,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/FreqResp$data_search.coverage" NAME="data_search Coverage Results" MODIFIED="1549325901996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FreqRespPy" />
+    <SUITE FILE_PATH="coverage/FreqResp$target_calc.coverage" NAME="target_calc Coverage Results" MODIFIED="1549328023011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FreqRespPy" />
+    <SUITE FILE_PATH="coverage/FreqResp$main.coverage" NAME="main Coverage Results" MODIFIED="1549328488202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FreqResp$data_search.coverage" NAME="data_search Coverage Results" MODIFIED="1549327910681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FreqRespPy" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/setup.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -60,10 +37,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FreqRespPy/data_search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <state relative-caret-position="219">
+              <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
               <folding>
                 <element signature="e#1#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FreqRespPy/target_calc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="50" lean-forward="true" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+              <folding>
+                <element signature="e#1#17#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,6 +85,8 @@
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/FreqRespPy/data_search.py" />
+        <option value="$PROJECT_DIR$/FreqRespPy/target_calc.py" />
+        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
@@ -101,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,11 +119,15 @@
               <item name="FreqResp" type="462c0819:PsiDirectoryNode" />
               <item name="FreqRespPy" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="FreqResp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FreqResp" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="data_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FreqResp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,8 +177,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FreqResp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="target_calc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FreqResp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FreqRespPy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FreqRespPy/target_calc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.target_calc" />
         <item itemvalue="Python.data_search" />
       </list>
     </recent_temporary>
@@ -189,46 +240,44 @@
       <option name="presentableId" value="Default" />
       <updated>1549324536870</updated>
       <workItem from="1549324538189" duration="1727000" />
+      <workItem from="1549327073737" duration="1437000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1727000" />
+    <option name="totallyTimeSpent" value="3164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1364" height="868" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29954615" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30408472" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298969" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32860824" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -251,20 +300,43 @@
     <entry file="file://$PROJECT_DIR$/data/Ev10_EVD_Export_Time_Comp3.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FreqRespPy/data_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="219">
+          <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
           <folding>
             <element signature="e#1#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/setup.py">
+    <entry file="file://$PROJECT_DIR$/FreqRespPy/target_calc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        <state relative-caret-position="15">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/test.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="50" lean-forward="true" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+          <folding>
+            <element signature="e#1#17#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
