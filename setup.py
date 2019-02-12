@@ -12,7 +12,7 @@ from setuptools import setup
 
 setup(
     name='FreqResp',
-    version=0.0.0,
+    version='0.0.0',
     description="""A package to quantify the frequency response of fishes using broadband sonar.  Or is it wideband? 
     Whatever they call it nowadays.""",
     url='https://github.com/kevinboswell/FreqResp',
