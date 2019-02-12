@@ -6,3 +6,4 @@ def mean_freq_response(target_df):
     row_means = target_df.mean(axis=1)
 
     return row_means
+

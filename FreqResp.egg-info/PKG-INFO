@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: FreqResp
+Version: 0.0.0
+Summary: A package to quantify the frequency response of fishes using broadband sonar.  Or is it wideband? 
+    Whatever they call it nowadays.
+Home-page: https://github.com/kevinboswell/FreqResp
+Author: Papa Kevin Boswell
+Author-email: kevin.boswell@fiu.edu
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
